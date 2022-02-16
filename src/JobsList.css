@@ -1,0 +1,97 @@
+/* JobsList Styles */
+
+ul.jobs-list {
+	list-style-type: none;
+	display: grid;
+	row-gap: 1vh;
+	grid-template-columns: 1fr;
+	margin: max(10px, 5vw);
+}
+
+.jobs-list li, .jobs-list li.show {
+	border: 1px solid lightblue;
+	border-radius: 20px;
+	display: grid;
+	grid-template-columns: calc(40% - 2ch) repeat(2, calc(23% - 2ch)) calc(max(75px, 14% - 2ch));
+	column-gap: 2ch;
+	padding: 1em;	
+	font-size: 90%;
+	color: #555;
+}
+
+.jobs-list li:hover {
+	box-shadow: 0 0 20px #ccc;
+	transition: box-shadow 200ms linear;
+}
+
+.jobs-list li > div:not(.job-description) {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: left;
+}
+
+.jobs-list li > div:nth-of-type(4) {
+	text-align: center;
+}
+
+.jobs-list li div.job-description {
+	grid-column: 1 / 5;
+	font-size: 110%;
+	position: relative;
+	text-align: left;
+	max-height: 0;
+	overflow: hidden;
+}
+
+.jobs-list li.hide div.job-description {
+    max-height: 0;
+	transition: max-height 750ms ease-out;
+}
+
+.jobs-list li.show div.job-description {
+	max-height: 1000px;
+	transition: max-height 4s ease-out;
+}
+
+.jobs-list li div.job-description p:first-of-type {
+	margin-top: 2vh;
+}
+
+.jobs-list li div.job-description p:last-of-type {
+	margin-bottom: 2vh;
+}
+
+.jobs-list button.close-button {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	cursor: pointer;
+	background: transparent;
+	border: 1px solid #23bcbc;
+}
+
+.jobs-list h3 {
+	font-size: 150%;
+	color: #70bc23;
+}
+
+.job-salary {
+	font-weight: bold;
+}
+
+.jobs-list .svg-inline--fa {
+	color: #bc2370;
+}
+
+.jobs-list a.button, button {
+	display: inline-block;
+	color: #fff;
+	background: #23bcbc;
+	border-radius: 20px;
+	text-decoration: none;
+	padding: 10px 20px;
+	margin: auto;
+	cursor: pointer;
+	text-transform: uppercase;
+}

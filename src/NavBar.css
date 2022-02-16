@@ -1,0 +1,41 @@
+nav ul {
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 2vh;
+    display: grid;
+    column-gap: 2ch;
+    grid-template-columns: calc(70% - 2ch) repeat(5, auto);
+    border-bottom: 1px solid #ddd;
+    align-items: center;
+}
+
+nav li {
+    display: inline-block;
+    padding-bottom: 1ch;
+}
+
+nav li:first-of-type {
+    font-weight: bold;
+    font-size: 110%;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+nav a, nav a:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+	color: #bc2370;
+}
+
+nav li.selected {
+    border-bottom: 3px solid #bc2370;
+    color: #bc2370;
+}
+
+nav li svg {
+    font-size: 150%;
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Example Jobs Feed</title>
+  <link>https://www.examplejobs.com</link>
+  <description>Bringing you all the best example jobs</description>
+  <item>
+    <title>Rotational Physiotherapist Ref. JOB-1</title>
+    <link>https://www.examplejobs.com/job/1</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Example NHS Trust</author>
+	<category>Physiotherapy/£35,000-£40,000 pa/Permanent/London</category>
+	<pubDate>2022-01-01</pubDate>
+  </item>
+  <item>
+    <title>Clinical Research Fellow Ref. JOB-2</title>
+    <link>https://www.examplejobs.com/job/2</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Example NHS Trust</author>
+	<category>Medical &amp; Dental/£50,000-£60,000 pa/Bank/London</category>
+	<pubDate>2022-01-02</pubDate>
+  </item>
+  <item>
+    <title>Sister Charge Nurse Ref. JOB-3</title>
+    <link>https://www.examplejobs.com/job/3</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Example Clinic</author>
+	<category>Nursing &amp; Midwifery/£48,425-£56,759 pa/Bank/London</category>
+	<pubDate>2022-01-01</pubDate>
+  </item>
+  <item>
+    <title>Oncology Nurse Ref. JOB-4</title>
+    <link>https://www.examplejobs.com/job/4</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Example Clinic</author>
+	<category>Nursing &amp; Midwifery/£36.76 ph/Bank/Clerkenwell</category>
+	<pubDate>2022-01-03</pubDate>
+  </item>
+  <item>
+    <title>Live in carer Ref. JOB-5</title>
+    <link>https://www.examplejobs.com/job/5</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Central</author>
+	<category>Additional Clinical Services/£100-£120 pd/Contract/Clerkenwell</category>
+	<pubDate>2021-12-31</pubDate>
+  </item>
+  <item>
+    <title>GP Ref. JOB-6</title>
+    <link>https://www.examplejobs.com/job/6</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Central - General Practioners</author>
+	<category>Medical &amp; Dental/£9,700 pm/Contract/Essex</category>
+	<pubDate>2021-01-01</pubDate>
+  </item>
+  <item>
+    <title>Salaried GP Ref. JOB-7</title>
+    <link>https://www.examplejobs.com/job/7</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Central - General Practioners, Northolt</author>
+	<category>Medical &amp; Dental/£70,000-£75,000 pa/Permanent/Northolt</category>
+	<pubDate>2021-01-10</pubDate>
+  </item>
+  <item>
+    <title>Receptionist Ref. JOB-8</title>
+    <link>https://www.examplejobs.com/job/8</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Healthcare Trust</author>
+	<category>Administrative &amp; Clerical/£25,000-£35,000/Permanent/Palmers Green</category>
+	<pubDate>2021-01-02</pubDate>
+  </item>
+  <item>
+    <title>Primary Care Pharmacist Ref. JOB-9</title>
+    <link>https://www.examplejobs.com/job/9</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Health Trust</author>
+	<category>Health Professionals/£38,000-£45,000 pa/Permanent/London</category>
+	<pubDate>2021-01-06</pubDate>
+  </item>
+  <item>
+    <title>Support Worker Ref. JOB-10</title>
+    <link>https://www.examplejobs.com/job/10</link>
+    <description>Here is the example description text that would be added to further describe the role and it's requirements in more detail for any potential applicants.</description>
+	<author>Example NHS Trust</author>
+	<category>Additional Clinical Services/£9.50 ph/Contract/Hampton</category>
+	<pubDate>2021-01-04</pubDate>
+  </item>
+</channel>
+
+</rss> 
