@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-jobs-board-example/static/css/main.6d761f0f.chunk.css",
+    "main.js": "/react-jobs-board-example/static/js/main.26694ab2.chunk.js",
+    "main.js.map": "/react-jobs-board-example/static/js/main.26694ab2.chunk.js.map",
+    "runtime~main.js": "/react-jobs-board-example/static/js/runtime~main.eb1e3941.js",
+    "runtime~main.js.map": "/react-jobs-board-example/static/js/runtime~main.eb1e3941.js.map",
+    "static/js/2.3694dc9f.chunk.js": "/react-jobs-board-example/static/js/2.3694dc9f.chunk.js",
+    "static/js/2.3694dc9f.chunk.js.map": "/react-jobs-board-example/static/js/2.3694dc9f.chunk.js.map",
+    "static/js/3.153d6254.chunk.js": "/react-jobs-board-example/static/js/3.153d6254.chunk.js",
+    "static/js/3.153d6254.chunk.js.map": "/react-jobs-board-example/static/js/3.153d6254.chunk.js.map",
+    "index.html": "/react-jobs-board-example/index.html",
+    "precache-manifest.12e39cc483d0eea8b73147b66d4a2f51.js": "/react-jobs-board-example/precache-manifest.12e39cc483d0eea8b73147b66d4a2f51.js",
+    "service-worker.js": "/react-jobs-board-example/service-worker.js",
+    "static/css/main.6d761f0f.chunk.css.map": "/react-jobs-board-example/static/css/main.6d761f0f.chunk.css.map",
+    "static/media/example-rss.xml": "/react-jobs-board-example/static/media/example-rss.ca59d58b.xml"
+  }
+}
